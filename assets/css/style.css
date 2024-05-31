@@ -45,3 +45,10 @@ body {
     color: var(--white);
     border-color: var(--white);
 }
+
+#banner {
+    background: url('https://img.freepik.com/free-photo/photo-frame-shopping-trolleys-packets-labels_23-2147961858.jpg?w=996&t=st=1710736171~exp=1710736771~hmac=88feb71a74598af11985bcbbb88c3d1a09c161c7b1faa66540927182235881dd');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
